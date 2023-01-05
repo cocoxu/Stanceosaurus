@@ -9,7 +9,8 @@ Use add_text_back.py to retrieve the text from each claim. For the full dataset 
 
 ## Acknowledgement
 
-This material is based in part on research sponsored by IARPA via the BETTER program (contract 19051600004).
+This material is based in part on research sponsored by IARPA via the BETTER program (contract 19051600004), NSF
+awards IIS-2144493 and IIS-2052498
 
 ## Citation
 
